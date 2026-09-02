@@ -206,7 +206,7 @@ cafeteria-sales-analysis/
 ├── Cafeteria.csv
 ├── cafeteria_analysis.py
 ├── README.md
-├── requirements.txt
+├── Requirements_Document.pdf
 │
 └── images/
     ├── monthly_sales.png
