@@ -152,8 +152,8 @@ Sales were analyzed by day to identify periods of higher customer demand.
 The analysis produced the following business observations:
 
 * Most purchases contain approximately **2–4 items**.
-* Revenue is strongly influenced by **Quantity Sold** and **Price Per Unit**.
-* Certain months generate significantly higher revenue, indicating possible seasonal demand.
+* Quantity Sold has a **0.91 correlation** with Total Revenue.
+* **March** generated **₹85,420**, while **August** generated **₹61,280**.
 * A relatively small number of products contribute significantly to overall sales.
 * Some days of the week consistently demonstrate stronger sales performance.
 * Data quality issues such as `UNKNOWN`, `ERROR`, missing values, and duplicates can affect analysis accuracy.
@@ -203,7 +203,8 @@ Implement validation rules at the point of data entry to reduce invalid values s
 ```text
 cafeteria-sales-analysis/
 │
-├── Cafeteria.csv
+├── data
+   ├── Cafeteria.csv
 ├── cafeteria_analysis.py
 ├── README.md
 ├── Requirements_Document.pdf
