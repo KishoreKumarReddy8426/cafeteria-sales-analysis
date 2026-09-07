@@ -136,7 +136,7 @@ The project analyzes:
 
 ## 🔗 Correlation Heatmap
 
-The heatmap illustrates relationships between numerical variables.
+Visualizes the correlation between Quantity Sold, Price Per Unit, and Total Price.
 
 <img src="https://github.com/user-attachments/assets/3770d4f9-5b86-4810-aafa-89d8cd14e7bb" width="800">
 
