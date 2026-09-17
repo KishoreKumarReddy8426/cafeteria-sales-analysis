@@ -1,0 +1,13 @@
+Problem Statement:
+Cafeterias often generate large volumes of sales data daily. However, this data is frequently underutilized, leading to missed opportunities in optimizing operations, and increasing profitability. The lack of systematic analysis makes it difficult for cafeteria management to identify trends, forecast demand, reduce waste, or improve revenue.
+In this project, we are interested in analyzing the content of Cafeteria that lists 10000 transactions over a period of one year (1/1/2023 to 31/12/2023). This project aims to analyze historical sales data from a cafeteria to uncover actionable insights that can help improve business performance. Key focus areas include identifying peak sales periods, best-selling items and revenue trends.
+Tasks:
+1. Perform Data Cleaning on the sales data
+· Identify and handle missing values in key fields such as transaction date, item, quantity, or price per unit
+· Change incorrect or inconsistent entries (entries containing UNKNOWN, ERROR)
+· Convert data types to appropriate formats (e.g., integers for quantity, floats for price, datetime for timestamp).
+· Remove duplicate records (if any), that may arise due to system glitches or repeated data entries
+· Find correlation, if any between data columns
+· Find the distribution of columns using plots
+Finally, you need to provide insights and strategy to improve sales and revenue.
+Files - .py (python file – data cleaning code), word file – plotting - distribution, insights and strategies
